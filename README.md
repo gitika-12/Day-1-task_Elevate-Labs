@@ -33,6 +33,3 @@ The cleaned dataset can now be used for further exploration, visualization, and 
 
 8. **Exported the Cleaned Dataset**
    - Saved the cleaned version.
-
-df = pd.read_csv("flights_cleaned.csv")
-print(df.head())
